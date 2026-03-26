@@ -22,7 +22,7 @@ DB_PATH = 'sms_monitor.db'
 
 # ─── Líneas registradas (agregar/quitar según necesidad) ─────────────────────
 LINEAS_REGISTRADAS = {
-    "+573101111111": "Línea 1",
+    "+573123343507": "Línea 1",
     "+573102222222": "Línea 2",
     "+573103333333": "Línea 3",
     "+573104444444": "Línea 4",

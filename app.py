@@ -24,7 +24,7 @@ DB_PATH = 'sms_monitor.db'
 LINEAS_REGISTRADAS = {
     "+573123343507": "Portabilidad ♥",
     "+573227573091": "T y T ♥",
-    "+573103333333": "Línea 3",
+    "+573115224758": "Portabilidad ♥ 2",
     "+573104444444": "Línea 4",
     "+573105555555": "Línea 5",
 }
